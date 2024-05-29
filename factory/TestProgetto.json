@@ -1,0 +1,9 @@
+{
+	"name": "TestProgetto",
+	"location": "italynorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e247a700-1c03-4ac5-8649-73c2f48f1f9b",
+		"tenantId": "32b27f54-09fb-48af-9c17-0f98a5d598bf"
+	}
+}
